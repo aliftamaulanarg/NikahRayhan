@@ -1,0 +1,52 @@
+{
+  "pegantin": {
+    "pria": {
+      "foto": "https://i.postimg.cc/sg3zzLNH/rayhan.png",
+      "panggilan": "Rayhan",
+      "nama": "Alifta Maulana Rayhan Giraldi",
+      "bapak": "Subari",
+      "ibu": "Sri Sugiyani"
+    },
+    "wanita": {
+      "foto": "https://i.postimg.cc/d0Dztcm6/asarinda2.png",
+      "panggilan": "Asarinda",
+      "nama": "Asarinda Ajeng Kusumaayu",
+      "bapak": "Anton",
+      "ibu": "Noor Ida"
+    }
+  },
+  "audio_url": "https://rr2---sn-htgx20capjpq-jb3l.googlevideo.com/videoplayback?expire=1731692929&ei=ITU3Z-7eBNns4-EP8IGfiQo&ip=43.229.20.52&id=o-ALfcjw9zcjsYIzsDe-5SgEqVfg5Ysxlp-WgTUGKfAn9w&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&gcr=id&vprv=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3572095&dur=220.599&lmt=1654816880306928&keepalive=yes&fexp=24350590,24350675,24350705,24350737,51299154,51312688,51326932&c=ANDROID_VR&txp=4432434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cvprv%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAMmr1esIt9FpaYRDC_kp0U2-hAdkZ2vHfOK_Cp3cXoDDAiBHl8kaaJP_8jialsaCHL_2v7hbOi2vW4j_V6OwF0K4Bw%3D%3D&rm=sn-h5ugpm-jb367l,sn-nposz7e&rrc=79,104&req_id=c5c45836a5a5a3ee&rms=rdu,au&redirect_counter=2&cms_redirect=yes&cmsv=e&ipbypass=yes&met=1731676193,&mh=a7&mip=103.171.149.120&mm=29&mn=sn-htgx20capjpq-jb3l&ms=rdu&mt=1731675679&mv=m&mvi=2&pcm2cms=yes&pl=24&lsparams=ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pcm2cms,pl,rms&lsig=AGluJ3MwRQIgNe6zk7QLXRampY94HqrUCg9KFM8qzRT_jUaVJLpvgJQCIQCckD24SuF1vuJAenrM09XR7t5AVQNGCkuzul8XXDJMDQ%3D%3D",
+  "tanggal_pernikahan": "2025-2-24",
+  "thumbnail_image_url": "https://i.postimg.cc/9MdCPjR2/rayhan.jpg",
+  "url_video": "https://res.cloudinary.com/dhtr7rbr4/video/upload/v1731735059/nrhek7wjgtevpstljmbw.mp4",
+  "intro": "Setelah Aku dan Kamu dipertemukan dalam situasi yang tepat, di mana keduanya telah siap untuk memulai hubungan bersama, tibalah mereka di awal perjalanan baru menuju pernikahan.",
+  "breaking_news_img": "https://i.postimg.cc/tJxVcG18/gambar1.jpg",
+  "breaking_news_content": "<p>Halo! Karena kalian adalah orang penting yang mengisi hari-hari kami, kami ingin informasikan bahwa kami akan segera menikah! &lt;3 </p><p className=\"mt-4\"> Tapi sebelumnya, kami mohon maaf kepada teman dan kerabat semua karena tidak bisa mengundang kalian hadir di hari bahagia kami, dikarenakan pernikahan kami bersifat intimate wedding yang dilaksanakan di Semarang dan hanya dihadiri oleh keluarga dan orang terdekat.</p><p className=\"mt-4\">Walaupun begitu, kami harapkan sebaik-baiknya doa untuk kelancaran pernikahan dan hari-hari bahagia setelahnya.</p><p className=\"mt-4\">Dengan penuh cinta,</p><p>The bride and groom &lt;3</p>",
+  "love_story": [
+    {
+      "image_url": "https://i.postimg.cc/263W4ZCk/foto2.jpg",
+      "title": "Episode 1: How We Met Each Other that Time",
+      "description": "Ketika pertama kali bertemu, kami tidak tahu bahwa kami akan menjadi pasangan hidup. Namun, Tuhan telah menyiapkan jalan kami untuk bertemu dan saling mengenal satu sama lain."
+    },
+    {
+      "image_url": "https://i.postimg.cc/q74XCqtq/foto.jpg",
+      "title": "Episode 2: The First Date",
+      "description": "Setelah beberapa kali bertemu, akhirnya kami memutuskan untuk menghabiskan waktu bersama. Kami pergi ke tempat yang indah dan berbagi cerita tentang diri kami masing-masing."
+    }
+  ],
+  "gallery": [
+    "https://i.postimg.cc/J04nWwdp/galeri1.jpg",
+    "https://i.postimg.cc/yYxdQHRd/galeri2.jpg",
+    "https://i.postimg.cc/CL2K9QC4/galeri3.jpg",
+    "https://i.postimg.cc/W4GbFpB9/galeri4.jpg",
+    "https://i.postimg.cc/Y0spKvFS/galeri6.jpg",
+    "https://i.postimg.cc/g2RGQk2Y/galeri7.jpg"
+  ],
+  "show_menu": {
+    "breaking_news": true,
+    "bride_and_groom": true,
+    "love_story": true,
+    "gallery": true,
+    "wish": true
+  }
+}
